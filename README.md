@@ -77,10 +77,13 @@ MONGO_URI=your-mongodb-uri
 JWT_SECRET=your-secret
 ```
 
+---
+
 ### 👨‍💻 Author
 -Kumar Shambhav
+---
 
-### 📬 Contact Me
+### 📬 Contact Me For Help:
 
 💼 LinkedIn: www.linkedin.com/in/krshambhav
 
