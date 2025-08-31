@@ -56,24 +56,23 @@ git clone https://github.com/Shambhav-07/Video-Conferencing-Web-App.git
 cd Video-Conferencing-Web-App
 
 
-### 2️⃣ Backend Setup
+ 2️⃣ Backend Setup
 ```bash
 cd backend
 npm install
 npm run dev
 
 
-### 3️⃣ Frontend Setup
+ 3️⃣ Frontend Setup
 ```bash
 cd frontend
 npm install
 npm start
 
-### 4️⃣ Environment Variables
+ 4️⃣ Environment Variables
 PORT=8000
 MONGO_URI=your-mongodb-uri
 JWT_SECRET=your-secret
 
 👨‍💻 Author
-
-Kumar Shambhav
+-Kumar Shambhav
