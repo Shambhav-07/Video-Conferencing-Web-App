@@ -51,37 +51,6 @@ A full-stack video conferencing application built with **MERN stack** and **WebR
 ## ⚡ Getting Started
 
 ### 1️⃣ Clone the repository
-\\\
 ```bash
 git clone https://github.com/Shambhav-07/Video-Conferencing-Web-App.git
 cd Video-Conferencing-Web-App
-\\\
-```md
- 2️⃣ Backend Setup
- \\\
-```bash
-cd backend
-npm install
-npm run dev
-\\\
-```md
- 3️⃣ Frontend Setup
- \\\
-```bash
-cd frontend
-npm install
-npm start
-\\\
-```md
-\\\
- 4️⃣ Environment Variables
-PORT=8000
-MONGO_URI=your-mongodb-uri
-JWT_SECRET=your-secret
-\\\
-```md
----
-\\\
-👨‍💻 Author
--Kumar Shambhav
-\\\
