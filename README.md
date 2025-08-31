@@ -82,8 +82,6 @@ JWT_SECRET=your-secret
 
 ### 📬 Contact Me
 
-[💼 LinkedIn](www.linkedin.com/in/krshambhav)
-
-🐙 GitHub
+💼 LinkedIn: www.linkedin.com/in/krshambhav
 
 📧 Email: Kumarshambhav75@gmail.com
