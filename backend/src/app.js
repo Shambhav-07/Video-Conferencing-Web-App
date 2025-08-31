@@ -14,7 +14,10 @@ const server = createServer(app);
 const io = connectToSocket(server);
 
 
-app.set("port", (process.env.PORT || 8000))
+const PORT = process.env.PORT || 8000;
+app.listen(PORT, "0.0.0.0", () => {
+  console.log(`LISTENING ON PORT ${PORT}`);
+});
 app.use(cors());
 app.use(express.json({ limit: "40kb" }));
 app.use(express.urlencoded({ limit: "40kb", extended: true }));
